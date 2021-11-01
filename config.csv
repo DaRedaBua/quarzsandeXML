@@ -1,0 +1,8 @@
+edvbook;//hcmserver/Daten/Reder/DispoEF/Reder/Daten_Sand/Fabian_QS_Programm/EDV_Abrechnung.xls;
+saveintern;//hcmserver/Daten/Reder/DispoEF/Reder/Daten_Sand/Fraechterabrechnung/;
+abrfile;//hcmserver/Daten/Reder/DispoEF/Reder/Daten_Sand/Fahrtenlisten;
+savespot;//hcmserver/Daten/Reder/DispoEF/Reder/Daten_Sand/Fraechterabrechnung;
+extbook;//hcmserver/Daten/Reder/DispoEF/Reder/Fraechteraufstellung.xls;
+email;f.reder@redertrans.at;
+outPutPath;outnput;
+errOutPath;error;
